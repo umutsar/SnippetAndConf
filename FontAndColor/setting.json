@@ -1,0 +1,16 @@
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": [
+                "comment",
+                "comment.block.documentation",
+                "comment.line.documentation",
+                "comment.line",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#ff0000" // Changing color of comment lines.
+            }
+        }
+    ]
+}
