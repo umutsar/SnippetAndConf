@@ -1,2 +1,2 @@
 # SnippetAndConf
-No desc yet.
+VS Code user snippets and other applications configuration.
