@@ -9,7 +9,8 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#ff0000" // Changing color of comment lines.
+                "foreground": "#ff0000", // Changing color of comment lines.
+                "fontStyle": "italic bold underline"
             }
         }
     ]
